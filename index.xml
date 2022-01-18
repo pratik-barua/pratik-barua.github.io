@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio of Pratik Barua on Pratik Barua</title>
+    <link>https://pratik-barua.github.io/</link>
+    <description>Recent content in Portfolio of Pratik Barua on Pratik Barua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Apr 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://pratik-barua.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Industrial Security Automation</title>
+      <link>https://pratik-barua.github.io/post/chapter-2/</link>
+      <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://pratik-barua.github.io/post/chapter-2/</guid>
+      <description>Security and automation is a prime concern in our day-to-day life. The approach to home and industrial automation and security system design is almost standardized nowadays. In this project, we have tried to increase these standards by combining new design techniques and developed a low cost industrial automated security system where all the data of a industry will be recorded time to time. Everyone wants to be as much as secure as possible.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Home Automation Project Using Android Application</title>
+      <link>https://pratik-barua.github.io/post/chapter-1/</link>
+      <pubDate>Tue, 09 Apr 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://pratik-barua.github.io/post/chapter-1/</guid>
+      <description>Arduino based home automation using Bluetooth project helps the user to control any electronic device using Device Control app on their Android Smartphone. The android app sends commands to the controller – Arduino, through wireless communication, namely, Bluetooth. This project of home automation using Bluetooth and Arduino can be used for controlling any AC or DC devices.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://pratik-barua.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pratik-barua.github.io/contact/</guid>
+      <description>Contact me on these platforms.
+   Platform URL     LinkedIn : https://www.linkedin.com/in/pratik-barua/   Facebook : https://www.facebook.com/protik.barua.7   Email : pratikbarua.joy@gmail.com   Contact No : +8801704915567    </description>
+    </item>
+    
+  </channel>
+</rss>
